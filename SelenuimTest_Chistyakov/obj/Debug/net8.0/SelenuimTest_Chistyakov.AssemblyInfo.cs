@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SelenuimTest_Chistyakov")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+638e7d2c4708064097653e4a8dcae40d23c39ccd")]
 [assembly: System.Reflection.AssemblyProductAttribute("SelenuimTest_Chistyakov")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SelenuimTest_Chistyakov")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
